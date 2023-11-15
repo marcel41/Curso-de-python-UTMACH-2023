@@ -27,6 +27,6 @@ Semana 3
 # Proyecto
 - Grupos de 3 personas, excepcionalmente grupos de 4 personas
 - Desde el Lunes 20 hasta Martes 28 de Noviembre 2023
-- Presentacion (Turno aleatorio) durante el 29 de Noviembre al 01 de Diciembre 2023
+- Presentacion [link](https://docs.google.com/spreadsheets/d/1wf_rgT8qsXx7p2jH3QuTubznZ9sUwS7Ayt3tVCQYg7c/edit?usp=sharing) durante el 29 de Noviembre al 01 de Diciembre 2023
 - Esquema de marca: [link](https://docs.google.com/document/d/13b5LO--yXu1-r9Fo4A5oW41h3g3hBljA6kaL-3Q1xkE/edit?usp=sharing)
 - Peso del proyecto: 75%
