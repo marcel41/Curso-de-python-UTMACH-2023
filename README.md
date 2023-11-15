@@ -1,11 +1,27 @@
 # Curso-de-python
 Repositorio de GitHub donde podrán encontrar las presentaciones y a su vez las soluciones a los ejercicios de programación
 # Grupos
-Semana 3
+| Grupo | Nombres                                       | Fecha       | Hora           |
+|-------|-----------------------------------------------|-------------|----------------|
+| 1     | Gabriel Alexander Carangui Nagua             | 01/12/2023  | 4:30 - 5:00pm  |
+|       | Gorotiza Salvatierra Gabriel Humberto        |             |                |
+|       | Burgos Jiménez Andrés Steeven                 |             |                |
+|||||
+| 2     | Garzon Izquierdo Jorge Luis                   | 30/11/2023  | 5:00 - 5:30pm  |
+|       | Franco Avila Joselyn Katiuska                 |             |                |
+|       | Aguilar Becerra Paulo Daniel                  |             |                |
+|||||
+| 3     | Barrezueta Ramón Carlos Isaac                | 30/11/2023  | 4:30 - 5:00pm  |
+|       | Solano Armijos Miguel Angel                  |             |                |
+|       | Suquilanda Aguilar Fabián Andrey             |             |                |
+|||||
+| 4     | Jara Sinchi Michael Anthony                 | 01/12/2023  | 5:00 - 5:30pm  |
+|       | Diego Fernando Quezada Pardo                |             |                |
+|       | Espinoza Ramirez Kevin Joffre                |             |                |
 
 # Examen
 
-- Fecha: 17/11/2023
+- Fecha: 19/11/2023
 - Hora: 14:00 - 16:00 pm
 - Temas: Lectura y Talleres 1 a 7
 - Formato de examen: Teoría y Práctica
