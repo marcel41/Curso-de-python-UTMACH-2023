@@ -18,7 +18,8 @@ Repositorio de GitHub donde podrán encontrar las presentaciones y a su vez las 
 | 4     | Jara Sinchi Michael Anthony                 | 01/12/2023  | 5:00 - 5:30pm  |
 |       | Diego Fernando Quezada Pardo                |             |                |
 |       | Espinoza Ramirez Kevin Joffre                |             |                |
-
+# Grabaciones
+[link](https://drive.google.com/drive/folders/1XuyKJ7qB2_KUTEn_6L12BJrXQBFOlfJ-)
 # Examen
 
 - Fecha: 19/11/2023
